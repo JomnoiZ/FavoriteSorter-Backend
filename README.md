@@ -1,6 +1,6 @@
 # Favorite Sorter
 
-I will write this later. Shortly, this is my mini-project for practing backend.
+I will write this later. Shortly, this is my mini project for practicing backend.
 
 ## Installation
 
